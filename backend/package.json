@@ -1,0 +1,20 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fly.js",
+  "scripts": {
+    "start": "nodemon fly.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "lodash": "^4.17.11",
+    "socket.io": "^2.2.0",
+    "waait": "^1.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.7"
+  }
+}
