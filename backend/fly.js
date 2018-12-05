@@ -26,6 +26,7 @@ droneState.bind(8890);
 
 drone.on('message', message => {
   console.log(`🤖 : ${message}`);
+  io.sockets.emit('status', message.toString());
 });
 
 function handleError(err) {
