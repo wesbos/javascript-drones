@@ -3,6 +3,7 @@
 Watch the videos:
 
 Part 1 → <https://www.youtube.com/watch?v=JzFvGf7Ywkk>
+
 Part 2 → <https://www.youtube.com/watch?v=ozMwRq-IT2w>
 
 ![](https://d3vv6lp55qjaqc.cloudfront.net/items/3u02271f0u461s2e2q24/Image%202018-12-05%20at%2011.11.56%20AM.png)
