@@ -16,7 +16,7 @@ IBM is giving away 2,000 DJI Tello drones as part of a contest and I made this v
 * React (with React Hooks!)
 * Styled Components for styling
 * Node.js and UDP4 sockets for communicating with drone
-* Socket.io WebSockets for sending data to/from the brower
+* Socket.io WebSockets for sending data to/from the browser
 * Next.js for easy react setup
 
 ## Hardware Used
