@@ -43,6 +43,8 @@ IBM is giving away 2,000 DJI Tello drones as part of a contest and I made this v
 
 ## Troubleshooting
 
+I had to update the firmware of my drone when it came in the mail before I could use this 1.3 API. Do this via the Tello app on your phone.
+
 If you let the drone's WIFI connection lapse, you have to restart the server by typing `rs` into the terminal. This will re-run the `command command` that puts the drone in SDK mode. If you don't do this, it will ignore any commands you send it.
 
 
@@ -58,3 +60,5 @@ Please hack on it and make your own cool things.
 * [FFMpeg + Node.js Video in the browser complicated example](https://github.com/SovGVD/nodetello/)
 * [Some Japanese Developer Figured out how to get video working with WebRTC](https://qiita.com/a-baba/items/d728d580f89473c5fd18)
 * Link your repo here for others to learn!
+
+
