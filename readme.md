@@ -49,6 +49,8 @@ IBM is giving away 2,000 DJI Tello drones as part of a contest and I made this v
 
 ## Troubleshooting
 
+[Docs for Tello are available here](https://dl-cdn.ryzerobotics.com/downloads/tello/20180910/Tello SDK Documentation EN_1.3.pdf)
+
 I had to update the firmware of my drone when it came in the mail before I could use this 1.3 API. Do this via the Tello app on your phone.
 
 If you let the drone's WIFI connection lapse, you have to restart the server by typing `rs` into the terminal. This will re-run the `command command` that puts the drone in SDK mode. If you don't do this, it will ignore any commands you send it.
