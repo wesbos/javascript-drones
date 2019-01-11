@@ -14,7 +14,8 @@ const TiltWrap = styled.div`
   }
 `;
 const TiltStyles = styled.div`
-  background-image: url('/static/drone.jpg');
+  background-image: url('/static/drone.png');
+  background-repeat: no-repeat;
   background-size: contain;
   background-position: center;
   height: 200px;
