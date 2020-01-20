@@ -13,8 +13,8 @@
   "dependencies": {
     "babel-plugin-styled-components": "^1.9.2",
     "next": "latest",
-    "react": "16.7.0-alpha.0 - next",
-    "react-dom": "16.7.0-alpha.0 - next",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
     "socket.io-client": "^2.1.1",
     "styled-components": "^4.1.1"
   },
